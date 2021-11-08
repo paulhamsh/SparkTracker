@@ -50,6 +50,9 @@ int get_effect_index(char *str) {
 }
 
 void  spark_state_tracker_start() {
+  selected_preset = 0;
+  got_presets = false;
+
   // send commands to get preset details for all presets and current state (0x0100)
   spark_msg_out.get_preset_details(0x0000);
   spark_msg_out.get_preset_details(0x0001);
@@ -175,9 +178,6 @@ void setup() {
 #endif
 
   Serial.println("Started");
-  
-  selected_preset = 0;
-  got_presets = false;
   
   connect_to_all();             // sort out bluetooth connections
   spark_start(true);            // set up the classes to communicate with Spark and app
