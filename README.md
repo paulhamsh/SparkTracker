@@ -18,5 +18,45 @@ So in this regard the Android app is more friendly to pedals than the IOS app.
   
 |Amps | IOS | Android |   
 |-|-|-| 
-|j|j|j|
+| RolandJC120                  | Y | Y |
+| Twin | Y | Y |
+| ADClean | Y | Y |
+| 94MatchDCV2                  | Y | Y |
+| Bassman | Y | Y |
+| AC Boost                     | Y | Y |
+| Checkmate | Y | Y |
+| TwoStoneSP50 | Y | Y |
+| Deluxe65 | Y | Y |
+| Plexi | Y | Y |
+| OverDrivenJM45 | Y | Y |
+| OverDrivenLuxVerb | Y | Y |
+| Bogner | Y | Y |
+| OrangeAD30 | Y | Y |
+| AmericanHighGain | Y | Y |
+| SLO100 | Y | Y |
+| YJM100 | Y | Y |
+| Rectifier | Y | Y |
+| EVH | Y | Y |
+| SwitchAxeLead | Y | Y |
+| Invader | Y | Y |
+| BE101                        | Y | Y |
+| Acoustic | Y | Y |
+| AcousticAmpV2 | Y | Y |
+| FatAcousticV2 | Y | Y |
+| FlatAcoustic | Y | Y |
+| GK800 | Y | Y |
+| Sunny3000 | Y | Y |
+| W600 | Y | Y |
+| Hammer500 | Y | Y |
+| ODS50CN | Y | Y |
+| JH.DualShowman | Y | Y |
+| JH.Sunn100 | Y | Y |
+| BluesJrTweed | Y | Y |
+| JH.JTM45 | Y | Y |
+| JH.Bassman50Silver | NO EFFECT | NO EFFECT |
+| JH.SuperLead100 | Y | Y |
+| JH.SoundCity100 | Y | Y |
+| 6505Plus | Y | Y |
+
+
 
