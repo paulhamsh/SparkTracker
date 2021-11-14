@@ -15,8 +15,8 @@ Interestingly the IOS app now gives a pop-up error when an effect is chosen it d
 So in this regard the Android app is more friendly to pedals than the IOS app.   
 
 
-|-|-|   
+  
 |Amps | IOS | Android |   
-|-|-|   
-
+|-|-|-| 
+|j|j|j|
 
