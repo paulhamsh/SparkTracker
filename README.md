@@ -60,3 +60,46 @@ So in this regard the Android app is more friendly to pedals than the IOS app.
 
 
 
+| Mods | IOS | Android |   
+|-|-|-| 
+| Tremolo | Pop-up error | Y |	
+| ChorusAnalog | Pop-up error | Y |	
+| Flanger | Pop-up error | Y |	
+| Phaser | Pop-up error | Y |	
+| Vibrato01 | Pop-up error | Y |	
+| UniVibe | Pop-up error | Y |	
+| Cloner | Pop-up error | Y |	
+| MiniVibe | Pop-up error | Y |	
+| Tremolator | Pop-up error | Y |	
+| TremoloSquare | Pop-up error | Y |	
+| JH.VoodooVibeJr | NO EFFECT | NO EFFECT |	
+| GuitarEQ6 | Pop-up error | Y |	
+| BassEQ6 | Pop-up error | Y |	
+
+
+| Delays | IOS | Android |   
+|-|-|-| 
+| DelayMono | Pop-up error | Y |
+| DelayEchoFilt | NO EFFECT | NO EFFECT |
+| VintageDelay | Pop-up error | Y |
+| DelayReverse | Pop-up error | Y |
+| DelayMultiHead | NO EFFECT | NO EFFECT |
+| DelayRe201 | Pop-up error | Y |
+
+| Drive | IOS | Android |   
+|-|-|-| 
+| Booster | Pop-up error | Y |
+| DistortionTS9 | NO EFFECT | NO EFFECT |
+| Overdrive | NO EFFECT | NO EFFECT |
+| Fuzz | Pop-up error | Y |
+| ProCoRat | Pop-up error | Y |
+| BassBigMuff | NO EFFECT | NO EFFECT |
+| GuitarMuff | NO EFFECT | NO EFFECT |
+| MaestroBassmaster | NO EFFECT | NO EFFECT |
+| SABdriver | NO EFFECT | NO EFFECT |
+| KlonCentaurSilver | NO EFFECT | NO EFFECT |
+| JH.AxisFuzz | NO EFFECT | NO EFFECT |
+| JH.SupaFuzz | NO EFFECT | NO EFFECT |
+| JH.Octavia | NO EFFECT | NO EFFECT |
+| JH.FuzzTone | NO EFFECT | NO EFFECT |
+
