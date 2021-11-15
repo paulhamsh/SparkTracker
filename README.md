@@ -1,15 +1,15 @@
 # SparkTracker
 Tracks the state of the app and amp
 
-Updated with v5 to see which effects can be selected with the 0x0306 command (from the Spark to app)   
+Updated with v5 to see which effects can be selected with the 0x0306 command (from the Spark to app)    
 
-Interesting things previously unknown to me:
+Interesting things previously unknown to me:   
 
 Given the command is a change from effect x to effect y, it seems that effect x does not need to be the effect currently in use.   
 For example, changing from amp Twin to RolandJC120, the command could be  EVH to RolandJC120 and it seems to work.   
 
-But - a change of parameter MUST use the right effect, and it MUST be the one in use, else the message is ignored.
-So, whilst the effect change ignores the first parameter (current model) the change of parameter does require the current model - so state tracking is required.
+But - a change of parameter MUST use the right effect, and it MUST be the one in use, else the message is ignored.   
+So, whilst the effect change ignores the first parameter (current model) the change of parameter does require the current model - so state tracking is required.   
 Also  you can only turn an effect on and off if it is the current model.   
 
 
