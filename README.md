@@ -10,6 +10,8 @@ For example, changing from amp Twin to RolandJC120, the command could be  EVH to
 
 But - a change of parameter MUST use the right effect, and it MUST be the one in use, else the message is ignored.
 So, whilst the effect change ignores the first parameter (current model) the change of parameter does require the current model - so state tracking is required.
+Also  you can only turn an effect on and off if it is the current model.   
+
 
 Findings for IOS and Android apps below.    
 
