@@ -7,7 +7,9 @@ Interesting things previously unknown to me:
 
 Given the command is a change from effect x to effect y, it seems that effect x does not need to be the effect currently in use.   
 For example, changing from amp Twin to RolandJC120, the command could be  EVH to RolandJC120 and it seems to work.   
-Which means perhaps we don't need to track the amp current state at all!!   
+
+But - a change of parameter MUST use the right effect, and it MUST be the one in use, else the message is ignored.
+So, whilst the effect change ignores the first parameter (current model) the change of parameter does require the current model - so state tracking is required.
 
 Findings for IOS and Android apps below.    
 
